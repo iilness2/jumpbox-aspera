@@ -1,3 +1,3 @@
 from richxsl/fedora-vnc-desktop
-RUN yum install wget
+RUN yum install -y wget
  
